@@ -1,5 +1,11 @@
 ### Hi dear friend <a href="https://malaquias.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+I'm a back-end developer with 7+ years of of experience in developing enterprise applications from Brazil, currently working to [Greenlight](https://greenlight.com).
+
+I'm working mostly with AWS, terraform, kubernetes and containers with node.js and typeScript!
+
+As a developer I’m in a constant search for best practices and also willing to try new technologies, programming languages, and tools.
+
 ## 📫 How to reach me
 
 [![Twitter malaquiasdev](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malaquiasdev)](https://twitter.com/malaquiasdev)
@@ -8,6 +14,8 @@
 [![Instagram: malaquiasdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malaquiasdev/)
 
 ## ⚡ Fun fact:
+
+## 🛠️  Languages and Tools
 
 <!--
 **malaquiasdev/malaquiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
