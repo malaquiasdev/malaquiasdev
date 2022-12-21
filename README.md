@@ -15,6 +15,31 @@ As a developer I’m in a constant search for best practices and also willing to
 
 ## ⚡ Fun fact:
 
+<div>
+  <img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/coffee-cup.png?raw=true" width="50" height="50" />
+  Coffee is my favorite drink.
+</div>
+
+<div>
+  <img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/switch.png?raw=true" width="50" height="50" />
+  I love playing Pokemon on the Nintendo Switch in my spare time.
+</div>
+
+<div>
+  <img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/writer.png?raw=true" width="50" height="50" />
+  I really like to write about my daily life, technology and the things I read.
+</div>
+
+<div>
+  <img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/snake.png?raw=true" width="50" height="50" />
+  If I wasn't a developer, I'd probably be a zoologist.
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/malaquiasdev/malaquiasdev/main/assets/pixar-logo.ico" width="50" height="50" />
+  I am a big fan of Pixar studios.
+</div>
+
 ## 🛠️  Languages and Tools
 
 <!--
