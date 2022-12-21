@@ -57,6 +57,11 @@ As a developer I’m in a constant search for best practices and also willing to
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@malaquiasdev)
 
 <!-- MEDIUM:START -->
+- [Como é trabalhar com Ciência de Dados, por Jessica Temporal](https://medium.com/collabcode/como-%C3%A9-trabalhar-com-ci%C3%AAncia-de-dados-por-jessica-temporal-c866b36256df?source=rss-ea2f5c807e6c------2)
+- [Meu Controle De Qualidade Para Projetos Serverless Com Node.js](https://medium.com/collabcode/meu-controle-de-qualidade-para-projetos-serverless-com-node-js-80c2c6939d0f?source=rss-ea2f5c807e6c------2)
+- [Como Configurar Um Dominio Do Google Domains No Github Pages](https://medium.com/collabcode/como-configurar-um-dominio-do-google-domains-no-github-pages-87324885bf11?source=rss-ea2f5c807e6c------2)
+- [Como é trabalhar como Full Stack Designer, por Livia Gabos](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-full-stack-designer-por-livia-gabos-d729f5eb7e3e?source=rss-ea2f5c807e6c------2)
+- [Como é trabalhar com tecnologia como voz política, por Eduardo Cuducos](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-com-tecnologia-como-voz-pol%C3%ADtica-por-eduardo-cuducos-8c53a8213d6b?source=rss-ea2f5c807e6c------2)
 <!-- MEDIUM:END -->
 
 <!--
