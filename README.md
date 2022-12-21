@@ -42,6 +42,18 @@ As a developer I’m in a constant search for best practices and also willing to
 
 ## 🛠️  Languages and Tools
 
+## 📝 Latest Blog Posts
+
+### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/malaquiasdev)
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@malaquiasdev)
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
 <!--
 **malaquiasdev/malaquiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
