@@ -38,30 +38,46 @@ As a developer I’m in a constant search for best practices and also willing to
 
 ## ⚡ Fun fact:
 
-<table>
-  <tr>
-    <td valign="center"><img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/coffee-cup.png?raw=true" width="50" height="50" /></td>
-    <td valign="center">Coffee is my favorite drink.</td>
-  </tr>
-  <tr>
-    <td valign="center"><img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/switch.png?raw=true" width="50" height="50" /></td>
-    <td valign="center">I love playing Pokemon on the Nintendo Switch in my spare time.</td>
-  </tr>
-  <tr>
-    <td valign="center"><img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/writer.png?raw=true" width="50" height="50" /></td>
-    <td valign="center">I really like to write about my daily life, technology and the things I read.</td>
-  </tr>
-  <tr>
-    <td valign="center"><img src="https://github.com/malaquiasdev/malaquiasdev/blob/main/assets/snake.png?raw=true" width="50" height="50" /></td>
-    <td valign="center">If I wasn't a developer, I'd probably be a zoologist.</td>
-  </tr>
-  <tr>
-    <td valign="center"><img src="https://raw.githubusercontent.com/malaquiasdev/malaquiasdev/main/assets/pixar-logo.ico" width="50" height="50" /></td>
-    <td valign="center">I am a big fan of Pixar studios.</td>
-  </tr>
-</table>
+- ☕  Coffee is my favorite drink
+- 🎮 I love playing Pokemon on the Nintendo Switch in my spare time
+- ✍🏽 I really like to write about my daily life, technology and the things I read
+- 🐍 If I wasn't a developer, I'd probably be a zoologis
+- 🍿 I am a big fan of Studio Ghibli, Pixar Studios and Marvel Studios movies
 
-### 🛠️  Languages and Tools
+### 💪 Skill Set
+
+These are some of the major technologies that I use or have worked on in the past:
+
+#### Programming Languages
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+
+#### Frameworks
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
+
+#### Infrastructure
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/9343010?s=200&v=4"></code>
+<code><img height="40" src="https://caiodelgado.dev/content/images/2020/04/terraform_d56939b1fa30e9c48acec1ccd8d4e507.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4"></code>
+
+#### Databases
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://www.datarain.com.br/wp-content/uploads/2020/08/DybamoDB-logo.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png"></code>
 
 <!--
 **malaquiasdev/malaquiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
