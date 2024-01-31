@@ -1,17 +1,16 @@
 # Hi dear friend <a href="https://malaquias.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a back-end developer with 7+ years of experience in developing enterprise applications, currently working to [Greenlight](https://greenlight.com).
+I'm a back-end developer with 7+ years of experience in developing enterprise applications, currently working for [Greenlight](https://greenlight.com).
 
-I'm working mostly with AWS, terraform, kubernetes and containers with node.js + typeScript!
+I'm working mostly with AWS, terraform, Kubernetes, and containers with node.js + typeScript!
 
-As a developer I’m in a constant search for best practices and also willing to try new technologies, programming languages, and tools.
+As a developer, I’m in a constant search for best practices and also willing to try new technologies, programming languages, and tools.
 
 ### 📫 How to reach me
 
-[![Twitter malaquiasdev](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malaquiasdev)](https://twitter.com/malaquiasdev)
 [![Linkedin: malaquiasdev](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/malaquiasdev/)](https://www.linkedin.com/in/malaquiasdev/)
 [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmalaquiasdev@outlook.com)
-[![Instagram: malaquiasdev](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/malaquiasdev/)
+[![Twitter malaquiasdev](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/malaquiasdev)](https://twitter.com/malaquiasdev)
 
 ## 📝 Latest Blog Posts
 
@@ -40,8 +39,8 @@ As a developer I’m in a constant search for best practices and also willing to
 
 - ☕  Coffee is my favorite drink
 - 🎮 I love playing Pokemon on the Nintendo Switch in my spare time
-- ✍🏽 I really like to write about my daily life, technology and the things I read
-- 🐍 If I wasn't a developer, I'd probably be a zoologis
+- ✍🏽 I like to write about comic-book, technology, and the things I read
+- 🐍 If I wasn't a developer, I'd probably be a zoologist
 - 🍿 I am a big fan of Studio Ghibli, Pixar Studios and Marvel Studios movies
 
 ### 💪 Skill Set
@@ -55,6 +54,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
+
 
 #### Frameworks
 
@@ -69,7 +70,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/9343010?s=200&v=4"></code>
-<code><img height="40" src="https://caiodelgado.dev/content/images/2020/04/terraform_d56939b1fa30e9c48acec1ccd8d4e507.png"></code>
+<code><img height="40" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4"></code>
 
 #### Databases
