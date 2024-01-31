@@ -10,15 +10,14 @@ description: When to use if-else vs. when in Kotlin, and the benefits of using w
 
 ## TLDR
 
-When to use ``if-else`` vs. ``when`` in Kotlin:
+When I like to use ``if-else`` vs. ``when`` in Kotlin:
 
 * ``if-else`` for simple cases with only one conditions or to use [early returns pattern](https://dev.to/malaquiasdev/why-i-like-to-use-early-returns-pattern-52b2).
-* ``when`` for more complex cases with multiple conditions or when you need greater expressiveness and type safety.
+* ``when`` for more complex cases with multiple conditions and to have a cleaner code.
 
 ---
 
-Ever feel lost in a maze of ``if-else`` statements, desperately trying to handle every input nuance? Fear not, fellow dev! Kotlin's ``when`` statement offers a sleek and powerful escape route.
-
+> Ever feel lost in a maze of ``if-else`` statements, desperately trying to handle every input nuance? Fear not, fellow dev! Kotlin's ``when`` statement offers a sleek and powerful escape route.
 Forget the Java ``switch`` cases or the endless ``else if`` that makes your code's readability horrible. ``when`` can simplify your logic, writing multiple conditions into a single and clear block.
 
 ## When
