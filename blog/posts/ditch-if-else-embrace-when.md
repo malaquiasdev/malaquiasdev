@@ -38,9 +38,24 @@ fun renderRequests(userId: String) = renderComponent {
       is ROLE.CHILD -> return
       is ROLE.UNCLE -> defaultRequestError()
       is ROLE.PARENT -> {
-        return buildRenderComponent(user)
+        buildRenderComponent(user)
       }
     }
+}
+```
+
+Now compare with if-else:
+
+```
+fun renderRequests(userId: String) = renderComponent {
+  val user = getUser(userId)
+   if (user.role == ROLE.CHILD) {
+    return
+   } else if (user.role == ROLE.UNCLE) {
+    defaultRequestError()
+   } else if (user.role == ROLE.PARENT) {
+    buildRenderComponent(user)
+   }
 }
 ```
 
