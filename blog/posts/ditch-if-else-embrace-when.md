@@ -20,5 +20,28 @@ When I like to use ``if-else`` vs. ``when`` in Kotlin:
 > Ever feel lost in a maze of ``if-else`` statements, desperately trying to handle every input nuance? Fear not, fellow dev! Kotlin's ``when`` statement offers a sleek and powerful escape route.
 Forget the Java ``switch`` cases or the endless ``else if`` that makes your code's readability horrible. ``when`` can simplify your logic, writing multiple conditions into a single and clear block.
 
-## When
+## Why ``when`` is better in my option?
 
+* Clean Code: allows you to write more concise and readable code, especially when you need to check multiple conditions.
+
+* Type Safe: runtime mistakes can be avoided by checking the expression against each case value.
+
+* Extensibility: can be easily extended to handle new cases.
+
+
+### Code example
+
+```
+fun renderRequests(userId: String) = renderComponent {
+  val user = getUser(userId)
+    when (user.role) {
+      is ROLE.CHILD -> return
+      is ROLE.UNCLE -> defaultRequestError()
+      is ROLE.PARENT -> {
+        return buildRenderComponent(user)
+      }
+    }
+}
+```
+
+## if-else
