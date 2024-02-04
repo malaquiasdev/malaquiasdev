@@ -1,8 +1,8 @@
 ---
-title: "When to Ditch if-Else and Use When in Kotlin"
+title: "When to prefer when then if-else in Kotlin"
 date: '2024-01-31'
 tags:
-    - kotlin kotlin-when-tutorial kotlin-best-practices-conditionals kotlin-if-else-alternatives
+    - kotlin programming clean-code
 description: When to use if-else vs. when in Kotlin, and the benefits of using when
 ---
 
