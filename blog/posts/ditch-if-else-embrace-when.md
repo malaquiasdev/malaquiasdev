@@ -2,7 +2,7 @@
 title: "When to Ditch if-Else and Use When in Kotlin"
 date: '2024-01-31'
 tags:
-    - Kotlin
+    - kotlin kotlin-when-tutorial kotlin-best-practices-conditionals kotlin-if-else-alternatives
 description: When to use if-else vs. when in Kotlin, and the benefits of using when
 ---
 
@@ -59,4 +59,25 @@ fun renderRequests(userId: String) = renderComponent {
 }
 ```
 
-## if-else
+## When ``if-else`` is a better option?
+
+When I want to use [early returns pattern](https://dev.to/malaquiasdev/why-i-like-to-use-early-returns-pattern-52b2).
+
+Writing functions or methods, early return means that the expected positive result is returned at the end of the function, and when conditions are not met, the rest of the code ends the execution by returning or throwing an exception.
+
+
+### Code example
+``` 
+fun sayMyName(name: String): String {
+ if (!name || name.length < 0) {
+    return;
+  }
+  return `Hello, ${name}`
+}
+```
+
+## References
+
+* [Kotlin documentation on control flow](https://kotlinlang.org/docs/control-flow.html)
+* [Baeldung tutorial on when](https://www.baeldung.com/kotlin/when)
+* [Kotlin: An Illustrated Guide • Chapter 3 - Kotlin Conditionals: When and If](https://typealias.com/start/kotlin-conditionals/)
