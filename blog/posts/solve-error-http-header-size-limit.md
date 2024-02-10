@@ -17,7 +17,7 @@ This sets the limit header size to 64 kilobytes.
 
 ## What are HTTP headers?
 
-Headers have a important responsibility in HTTP request or response, because they handler essential data like auth tokens, encoding, content-type or in our case size.
+According to Mozilla an **HTTP header** is a field of an HTTP request or response that passes additional context and metadata about the request or response. For example, a request message can use headers to indicate its preferred media formats, while a response can use header to indicate the media format of the returned body.
 
 ## Why Spring Boot limit the header size?
 
@@ -34,3 +34,8 @@ The default header size are:
 To change the max size, follow the **TL;DR** example.
 
 Be careful when increasing the size limit always analise your situation and try to understand why the header is too large (usually are auth token).
+
+## References
+
+* [MDN Web Doc: HTTP header](https://developer.mozilla.org/en-US/docs/Glossary/HTTP_header)
+* [Spring Boot Doc: Common application properties](https://docs.spring.io/spring-boot/docs/1.5.22.RELEASE/reference/html/common-application-properties.html)
