@@ -17,11 +17,11 @@ As a developer, I’m in a constant search for best practices and also willing t
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/malaquiasdev)
 
 <!-- DEVTO:START -->
+- [How to solve error parsing HTTP request header in Spring Boot](https://dev.to/malaquiasdev/how-to-solve-error-parsing-http-request-header-in-spring-boot-45pk)
 - [When I prefer use when then if-else in Kotlin](https://dev.to/malaquiasdev/when-i-prefer-use-when-then-if-else-in-kotlin-24ok)
 - [Why I like to use Early Returns Pattern?](https://dev.to/malaquiasdev/why-i-like-to-use-early-returns-pattern-52b2)
 - [Lombok: Fixing SonarQube coverage problem](https://dev.to/malaquiasdev/lombok-fixing-sonarqube-coverage-problem-26bg)
 - [Lombok: Corrigindo problema de cobertura de código no SonarQube](https://dev.to/malaquiasdev/lombok-corrigindo-problema-de-cobertura-de-codigo-no-sonarqube-570h)
-- [Weekly Edição 1](https://dev.to/malaquiasdev/weekly-edicao-1-ela)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@malaquiasdev)
