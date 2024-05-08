@@ -76,7 +76,7 @@ These are some of the major technologies that I use or have worked on in the pas
 #### Databases
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://www.datarain.com.br/wp-content/uploads/2020/08/DybamoDB-logo.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png"></code>
 
