@@ -1,8 +1,8 @@
 # Hi dear friend <a href="https://malaquias.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a back-end developer with 7+ years of experience in developing enterprise applications, currently working for [Greenlight](https://greenlight.com).
+I'm a back-end developer with 7+ years of experience in developing enterprise applications with bachelor's degree in Computer Science.
 
-I'm working mostly with AWS, terraform, Kubernetes, and containers with node.js + typeScript!
+I'm working mostly with JavaScript/TypeScript and Node.js, Java/Kotlin and Spring Boot, AWS, MySQL, DynamoDB, Docker, Terraform and Kubernetes.
 
 As a developer, I’m in a constant search for best practices and also willing to try new technologies, programming languages, and tools.
 
@@ -37,11 +37,11 @@ As a developer, I’m in a constant search for best practices and also willing t
 
 ## ⚡ Fun fact:
 
-- ☕  Coffee is my favorite drink
-- 🎮 I love playing Pokemon on the Nintendo Switch in my spare time
+- ☕ Coffee is my favorite drink
+- 🎮 I love playing Elden Ring in my spare time
 - ✍🏽 I like to write about comic-book, technology, and the things I read
 - 🐍 If I wasn't a developer, I'd probably be a zoologist
-- 🍿 I am a big fan of Studio Ghibli, Pixar Studios and Marvel Studios movies
+- 🍿 I am a big fan of Studio Ghibli and Pixar Studios
 
 ### 💪 Skill Set
 
