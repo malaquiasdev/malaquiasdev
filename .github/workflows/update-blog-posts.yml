@@ -18,7 +18,3 @@ jobs:
         with:
           comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/malaquiasdev"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@malaquiasdev"
