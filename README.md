@@ -1,10 +1,8 @@
 # Hi dear friend <a href="https://malaquias.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I'm a back-end developer with 7+ years of experience in developing enterprise applications with bachelor's degree in Computer Science.
+As a software engineer with over a decade of experience, I specialize in designing and developing scalable systems for fintech, video‑streaming and accommodations. 
 
-I'm working mostly with JavaScript/TypeScript and Node.js, Java/Kotlin and Spring Boot, AWS, MySQL, DynamoDB, Docker, Terraform and Kubernetes.
-
-As a developer, I’m in a constant search for best practices and also willing to try new technologies, programming languages, and tools.
+I am deeply committed to delivering robust backend solutions that drive efficiency and innovation.
 
 ### 📫 How to reach me
 
@@ -31,43 +29,6 @@ As a developer, I’m in a constant search for best practices and also willing t
 - ✍🏽 I like to write about comic-book, technology, and the things I read
 - 🐍 If I wasn't a developer, I'd probably be a zoologist
 - 🍿 I am a big fan of Studio Ghibli and Pixar Studios
-
-### 💪 Skill Set
-
-These are some of the major technologies that I use or have worked on in the past:
-
-#### Programming Languages
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
-
-
-#### Frameworks
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
-
-#### Infrastructure
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/9343010?s=200&v=4"></code>
-<code><img height="40" src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg"></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4"></code>
-
-#### Databases
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png"></code>
 
 <!--
 **malaquiasdev/malaquiasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
