@@ -15,6 +15,7 @@ I am deeply committed to delivering robust backend solutions that drive efficien
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/malaquiasdev)
 
 <!-- DEVTO:START -->
+- [Quick Fix Hibernate: object references an unsaved transient instance](https://dev.to/malaquiasdev/quick-fix-hibernate-object-references-an-unsaved-transient-instance-2ib8)
 - [How JWT, JWS, and JWE Secure Your Data?](https://dev.to/malaquiasdev/how-jwt-jws-and-jwe-secure-your-data-205a)
 - [Tilde or Caret in package.json - Stop copying and start choosing](https://dev.to/malaquiasdev/tilde-or-caret-in-packagejson-stop-copying-and-start-choosing-4h3o)
 - [How to solve error parsing HTTP request header in Spring Boot](https://dev.to/malaquiasdev/how-to-solve-error-parsing-http-request-header-in-spring-boot-45pk)
