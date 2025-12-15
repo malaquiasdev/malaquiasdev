@@ -6,6 +6,8 @@ tags:
 description: Why your @Inject fails in Integration Tests and how to fix it.
 ---
 
+![dmitry-ratushny-O33IVNPb0RI-unsplash (1)](https://github.com/user-attachments/assets/86b40c1d-0da6-41a6-9984-3fd94545b2aa)
+
 Cover by<a href="https://unsplash.com/pt-br/@ratushny?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Ratushny</a> <a href="https://unsplash.com/pt-br/fotografias/homem-sentado-na-cadeira-com-livro-O33IVNPb0RI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## TL;DR
