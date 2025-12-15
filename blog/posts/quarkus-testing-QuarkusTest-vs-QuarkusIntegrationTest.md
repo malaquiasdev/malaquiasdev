@@ -5,8 +5,8 @@ tags:
     - quarkus java testing kotlin
 description: Why your @Inject fails in Integration Tests and how to fix it.
 ---
-![Cover]([https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80&w=2000](https://images.unsplash.com/photo-1508014924734-d75124b0f402?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-))
+
+Cover by<a href="https://unsplash.com/pt-br/@ratushny?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dmitry Ratushny</a> <a href="https://unsplash.com/pt-br/fotografias/homem-sentado-na-cadeira-com-livro-O33IVNPb0RI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## TL;DR
 
