@@ -21,16 +21,11 @@ If you think $1.25 isn't much, look at the scale. When you're doing this every d
 
 | Metric | Legacy (Full GSI) | Optimized (Sparse Index) | Improvement |
 | --- | --- | --- | --- |
-| **Write Cost (per 1M items)** | $2.50 | **$1.25** | <br>**50% cheaper** 
-|
-| **Annual Cost (100M items/mo)** | $3,000 | **$1,500** | <br>**$1,500 saved/yr** 
-|
-| **Read Strategy** | 2 Requests (GSI + Table) | **1 Request (Item Collection)** | <br>**2x Faster** 
-|
-| **Consistency** | Eventual (GSI) | **Strong (Main Table)** | <br>**Better Reliability** 
-|
-| **GSI Storage** | 100% Replication | **<1% (Headers only)** | <br>**99% Leaner** 
-|
+| Write Cost (per 1M items) | $2.50 | $1.25 | 50% cheaper |
+| Annual Cost (100M items/mo) | $3,000 | $1,500 | $1,500 saved/yr |
+| Read Strategy | 2 Requests (GSI + Table) | 1 Request (Item Collection) | 2x Faster |
+| Consistency | Eventual (GSI) | Strong (Main Table) | Better Reliability |
+| GSI Storage | 100% Replication | &lt;1% (Headers only) | 99% Leaner |
 
 ## Aligning with the AWS Calculator
 
@@ -102,5 +97,6 @@ Our strategy targets these exact levers. We reduced the volume seen by the GSIs 
 ## Conclusion
 
 By switching to a Sparse Index and leveraging Atomic Counters, we didn't just "fix a bug"—we optimized the unit economics of the entire feature.
+
 
 Next time you're about to add a GSI, ask yourself: **"Does every item really need to be there, or am I just being lazy with my schema?"**
