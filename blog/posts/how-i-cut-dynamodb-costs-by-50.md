@@ -61,7 +61,7 @@ We only needed the GSI to find the **Operation Header**, not the millions of ind
 
 Also by doing this, we can fetch the entire operation details (Header + Items) in a **single request** using a `Query` on the `PK`. No more jumping between GSIs or making multiple network hops. Plus, reading from the main table allows **Strong Consistency**, which we needed for the detail view.
 
-The Math of Blocks)
+## The Math of Blocks
 
 DynamoDB charges you in fixed blocks. It doesn't care if your item is 100 bytes or 1,000 bytes; a single write is **1 WCU**.
 
@@ -100,3 +100,4 @@ By switching to a Sparse Index and leveraging Atomic Counters, we didn't just "f
 
 
 Next time you're about to add a GSI, ask yourself: **"Does every item really need to be there, or am I just being lazy with my schema?"**
+
